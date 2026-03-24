@@ -16,7 +16,7 @@ Through SQL segmentation and Python EDA, I discovered a **High-Risk "Danger Zone
 
 ##  Visual Analysis
 > *Note: Add your churn_analysis.png here to show your charts!*
-![Churn Analysis](churn_analysis.png)
+![Churn Analysis](./images//churn_analysis.png)
 
 ##  Strategic Recommendations
 * **Proactive Onboarding:** Implement a 90-day intensive onboarding program for the high-value/flexible-contract segment.
